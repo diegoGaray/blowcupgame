@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blow Cup.Plugins", "Blow Cup.Plugins.csproj", "{9E7FCCB7-C9DA-BC9A-A084-6AC612ADD342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blow Cup", "Blow Cup.csproj", "{BDBD33A1-2DBA-D0F4-ADF8-42F8FBCE0AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blow Cup.Editor", "Blow Cup.Editor.csproj", "{9D091B5A-B8AC-7282-FAFE-DBEBFF0798B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E7FCCB7-C9DA-BC9A-A084-6AC612ADD342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7FCCB7-C9DA-BC9A-A084-6AC612ADD342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7FCCB7-C9DA-BC9A-A084-6AC612ADD342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7FCCB7-C9DA-BC9A-A084-6AC612ADD342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBD33A1-2DBA-D0F4-ADF8-42F8FBCE0AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBD33A1-2DBA-D0F4-ADF8-42F8FBCE0AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBD33A1-2DBA-D0F4-ADF8-42F8FBCE0AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBD33A1-2DBA-D0F4-ADF8-42F8FBCE0AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D091B5A-B8AC-7282-FAFE-DBEBFF0798B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D091B5A-B8AC-7282-FAFE-DBEBFF0798B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D091B5A-B8AC-7282-FAFE-DBEBFF0798B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D091B5A-B8AC-7282-FAFE-DBEBFF0798B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
